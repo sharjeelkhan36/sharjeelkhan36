@@ -1,0 +1,88 @@
+{
+  "1": {
+    "session": "2020-21",
+    "first_name": "Ravi prakash",
+    "last_name": "Shrivastav",
+    "class": "12",
+    "section": "B",
+    "gender": "Male",
+    "father": "Rajesh Kumar",
+    "mother": "Ranjana Kumari",
+    "mobile": "3256897412",
+    "address": "Rajasthan , INDIA"
+  },
+  "2": {
+    "session": "2020-21",
+    "first_name": "sb",
+    "last_name": "rs",
+    "class": "1",
+    "section": "A",
+    "gender": "Male",
+    "father": "sang",
+    "mother": "rih",
+    "mobile": "980546567",
+    "address": "dxd"
+  },
+  "3": {
+    "session": "2016-20",
+    "first_name": "sharjeel",
+    "last_name": "khan",
+    "class": "BSIT",
+    "section": "Morning",
+    "gender": "Male",
+    "father": "m rouf",
+    "total_fee": "131,000",
+    "cnic": "125,000",
+    "submit_fee": "111111"
+  },
+  "4": {
+    "session": "2016-20",
+    "first_name": "sd",
+    "last_name": "ds",
+    "class": "BSIT",
+    "section": "Morning",
+    "gender": "Male",
+    "father": "sds",
+    "total_fee": "1111",
+    "cnic": "00000",
+    "submit_fee": "2222222"
+  },
+  "5": {
+    "session": "2016-20",
+    "first_name": "fgf",
+    "last_name": "fgf",
+    "class": "BSIT",
+    "section": "Morning",
+    "gender": "Male",
+    "father": "fgf",
+    "total_fee": "11111",
+    "cnic": "22222",
+    "submit_fee": "33333"
+  },
+  "6": {
+    "session": "2016-20",
+    "first_name": "fgdg",
+    "last_name": "dfdf",
+    "class": "BSIT",
+    "section": "Morning",
+    "gender": "Male",
+    "father": "dfd",
+    "total_fee": "dfd",
+    "submit_fee": "dfd",
+    "cnic": "fd"
+  },
+  "7": "This Record is Deleted from System",
+  "8": "This Record is Deleted from System",
+  "9": {
+    "session": "2016-20",
+    "first_name": "sharjeelkhan",
+    "last_name": "kakar",
+    "class": "BSIT",
+    "section": "Morning",
+    "gender": "Male",
+    "father": "Asif",
+    "total_fee": "131,000",
+    "submit_fee": "120,000",
+    "cnic": "22222"
+  }
+}
